@@ -449,6 +449,10 @@ title p {
   height: auto;
   text-align: center;
 }
+.footer .video iframe {
+  width: 450px;
+  height: 320px;
+}
 @media screen and (max-width: 1200px) {
 }
 @media screen and (max-width: 992px) {
@@ -540,5 +544,9 @@ title p {
     padding: 10px 15px;
     text-transform: capitalize;
     font-weight: 500;
+  }
+  .footer .video iframe {
+    width: 300px;
+    height: 250px;
   }
 }
