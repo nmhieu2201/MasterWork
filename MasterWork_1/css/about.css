@@ -630,6 +630,13 @@ title p {
     .solution .main .img {
         padding: 0;
     }
+    .solution .row {
+      display: block;
+    }
+    .solution .row .logo {
+      padding: 0;
+      width: 100%;
+    }
     .team .main .container {
         display: block;
     }
